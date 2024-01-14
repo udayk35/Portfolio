@@ -62,7 +62,7 @@ img
     padding: 0 10%;
     display: flex;
    justify-content: space-between;
-    align-items: center;
+    align-items: start;
     animation: fadeIn 1s ease-out;
     margin-top: 10%;
 }
