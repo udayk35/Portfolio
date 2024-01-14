@@ -58,6 +58,7 @@ img
 }
 
 .home {
+    height:100vh;
     padding: 0 10%;
     display: flex;
    justify-content: space-between;
